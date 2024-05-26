@@ -1,0 +1,21 @@
+.container{
+    width: 1000px;
+    height: 370px;
+    background-color: #5c5596;
+    display: flex;
+   
+    margin: auto;
+}
+.image img{
+    width: 440px;
+    height: 300px;
+    margin-top: 30px;
+    margin-left: 20px;
+    border-radius: 7px;
+}
+.content{
+ color: #f2f2f2;
+ margin: auto;
+ margin-left: 20px;
+}
+
